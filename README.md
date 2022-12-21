@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web-development
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me :deanfayzullaev@gmail.com
+- 📫 How to reach me : deanfayzullaev@gmail.com
 
 
 
